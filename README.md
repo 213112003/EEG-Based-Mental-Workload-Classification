@@ -6,6 +6,9 @@ This repository presents a deep learning-based approach for classifying Mental W
 - Medium
 - High
 The study utilizes the EEGNet model along with hyperparameter tuning and explainability analysis.
+Dataset
+The dataset used in this work is open access (online available) and available at: https://doi.org/10.5281/zenodo.5055046
+
 Methodology
 The EEGNet model is employed for efficient EEG signal classification. The model is designed to capture both temporal and spatial features of EEG data.
 Hyperparameter Tuning
