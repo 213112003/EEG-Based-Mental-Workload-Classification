@@ -9,7 +9,7 @@ The study utilizes the EEGNet model along with hyperparameter tuning and explain
 
 The dataset used in this work is open access (online available) and available at: https://doi.org/10.5281/zenodo.5055046
 
-Methodology
+Methodology:
 The EEGNet model is employed for efficient EEG signal classification. The model is designed to capture both temporal and spatial features of EEG data.
 Hyperparameter Tuning
 The following EEGNet hyperparameters were fine-tuned:
